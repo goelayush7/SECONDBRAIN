@@ -21,7 +21,7 @@ A personal **Second Brain** system that helps you store, search, and interact wi
 - **Backend / RAG Layer:** [LangChain](https://www.langchain.com/), [FAISS](https://github.com/facebookresearch/faiss) or [ChromaDB](https://www.trychroma.com/)
 - **LLM APIs:** GROQ / Hugging Face Transformers
 - **Cloud:** AWS
-- **Storage:** Cloud Bucket (e.g., S3), or local DB if self-hosted
+- **Storage:** Cloud Bucket S3
 
 ---
 
